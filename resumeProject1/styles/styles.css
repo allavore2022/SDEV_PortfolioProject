@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+    font-family: 'Baloo 2', cursive;
+}
+p {
+    font-size: 1.2em;
+}
+/* Navbar Styles*/
+nav {
+    width: 100%;
+}
+.navbar-brand {
+    font-size: 1.5em;
+}
+.navbar-custom{
+    background-color: #cedbe0;
+}
+
+/* body styling */
+
+fieldset.border{
+    border: 2px solid #cedbe0;
+}
+img {
+    padding-top: 10px;
+}
+#experience {
+    background-color: #F6E8D7;
+    padding: 30px;
+}
+
+.card{
+    margin: 20px;
+}
+.btn-custom{
+    background-color: #F6E8D7;
+}
+/* Footer Styles */
+footer{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.footer-custom{
+    background-color: #cedbe0;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+#resumeImage {
+    width: 300px;
+    height: 100px;
+}
